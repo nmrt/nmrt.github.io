@@ -1,8 +1,8 @@
 # Site settings
-title: Another unnecessary blog
+title: Another unnecessary blog ;)
 email: rt@nyzhnyk.name
 description: > # this means to ignore newlines until "baseurl:"
-  The site about dreams, adventures and maybe some code
+  The site about dreams, adventures and maybe some code.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://rt.nyzhnyk.name/" # the base hostname & protocol for your site
 twitter_username: nmrt
