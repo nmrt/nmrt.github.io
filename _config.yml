@@ -24,5 +24,8 @@ defaults:
       layout: post
       excerpt_separator: <!--more-->
 
+gems:
+  - jemoji
+
 # Build settings
 markdown: kramdown
